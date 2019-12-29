@@ -117,7 +117,7 @@ meetups:
     sponsors:
     - company: jds
       role: Venue     
-   "20191220":
+   "20200120":
     title: "#5: Journey in Implementing Cloud-Native Technology & Intro to Kubernetes RBAC"
     presentations:
     - duration: 10m0s
