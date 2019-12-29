@@ -117,4 +117,32 @@ meetups:
     sponsors:
     - company: jds
       role: Venue     
-      
+   "20191220":
+    title: "#5: Journey in Implementing Cloud-Native Technology & Intro to Kubernetes RBAC"
+    presentations:
+    - duration: 10m0s
+      slides: https://docs.google.com/presentation/d/1zcRRw_rWuRbcfAv-SowzZI7Cs6yQ8-q7qy_Of42KFnY/edit#slide=id.g4c35bb3ebd_2_71
+      speakers: 
+      - iqbalsyamil
+      title: Welcoming speech and opening
+    - duration: 35m0s
+      recording: https://www.youtube.com/watch?v=u0Miv0Et_s8&feature=youtu.be
+      slides: https://docs.google.com/presentation/d/18pMWvKM3m_MCtX_095za4ogG2Oog-c8wfMxkTWImYFc/edit?usp=sharing
+      speakers:
+      - aditya.satrya
+      title: Journey in Implementing Cloud-Native Technology in JDS
+    - duration: 35m0s
+      recording: https://www.youtube.com/watch?v=u0Miv0Et_s8&feature=youtu.be
+      slides: https://docs.google.com/presentation/d/1pUgTksN6qn3oDkSp8tmQB5QGzCl1T7R_Uphwulk6daI/edit?usp=sharing
+      speakers:
+      - imrenagi
+      title:  Introduction to Kubernetes RBAC
+    - duration: 40m0s
+      recording: ""
+      slides: ""
+      speakers: []
+      title: Hallway track (networking)
+    sponsors:
+    - company: jds
+      role: Venue     
+           
